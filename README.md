@@ -206,7 +206,7 @@ Generated statistics to obtain descriptive statistics for each column. This help
        -e $ENDPOINT \
        -d $INPUT_DATA_FILE
      ```
-   - **Expected Response:**
+   - **Response:**
      ```bash
      SML Tabular HTTP Response:
      2022/01/10 15:04:45 {"model_class":"0","model_score":0.9999981}
@@ -235,7 +235,7 @@ Generated statistics to obtain descriptive statistics for each column. This help
        -e $ENDPOINT \
        -d $INPUT_DATA_FILE
      ```
-   - **Expected Response:**
+   - **Response:**
      ```bash
      SML Tabular HTTP Response:
      2022/01/10 15:04:45 {"model_class":"0","model_score":1.0322887E-5}
@@ -320,8 +320,7 @@ To further enhance this project and my machine learning skills, I plan to:
 
 - **Google Cloud Platform:** For providing robust and scalable machine learning tools.
 - **Qwiklabs:** For offering hands-on labs that facilitate practical learning experiences.
-- **OpenAI's ChatGPT:** For assisting in creating comprehensive documentation and explanations throughout this project.
-
+- 
 ---
 
 ## License
