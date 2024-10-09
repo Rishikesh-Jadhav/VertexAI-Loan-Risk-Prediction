@@ -62,8 +62,6 @@ This project uses **Vertex AI**, Google Cloud's unified machine learning platfor
 Generated statistics to obtain descriptive statistics for each column. This helps in understanding data distribution and identifying anomalies.
    - Each column showed detailed analytical charts.
 
-![Upload Data](https://i.imgur.com/YourImageLink.png) *(Replace with actual screenshot if available)*
-
 #### 1.3 Generate Statistics (Optional)
 
 **Objective:** Obtain descriptive statistics for each column to better understand the dataset.
